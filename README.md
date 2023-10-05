@@ -1,5 +1,5 @@
 # 6hurry.github.io
-+<!DOCTYPE html>
+<!DOCTYPE html>
 <!-- saved from url=(0035)https://yacan8.github.io/valentine/ -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
@@ -235,8 +235,8 @@ html{
 <span class="token punctuation">}</span>
 
 <span class="token comment">/* 太单调了，让心跳动起来 */</span>
-<<span class="token atrule"><span class="tokenrule">@keyframes</span> 颤动</span> <span class="token punctuation">{</span>class="token atrule"><span class="token rule">@keyframes</span> throb</span> <span class="token punctuation">{</span>
-  <span class="token 选择器">0%</span> <span class="token punctuation">{</span><span class="token selector">0%</span> <span class="token punctuation">{</span>
+<span class="token atrule"><span class="token rule">@keyframes</span> throb</span> <span class="token punctuation">{</span>
+  <span class="token selector">0%</span> <span class="token punctuation">{</span>
     <span class="token property">transform</span><span class="token punctuation">:</span> <span class="token function">scale</span><span class="token punctuation">(</span>1<span class="token punctuation">)</span> <span class="token function">rotate</span><span class="token punctuation">(</span>45deg<span class="token punctuation">)</span><span class="token punctuation">;</span>
     <span class="token property">opacity</span><span class="token punctuation">:</span> 1<span class="token punctuation">;</span>
   <span class="token punctuation">}</span>
@@ -259,4 +259,4 @@ html{
 </pre></div><div class="heartWrapper"><div class="heart"></div><div class="heart bounce"></div></div></div></div></div>
 <script type="text/javascript" src="./Hi。刘柯松！_files/main.js"></script>
 
-</正文></html></html>
+</body></html>
